@@ -4,8 +4,8 @@ $(function() {
     var id = $(this).data("id");
     var newSleep = $(this).data("newsleep");
 
-    var newSleepState = {
-      sleepy: newSleep
+    var devoured = {
+      devoured: true
     };
 
     // Send the PUT request.
