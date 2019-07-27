@@ -2,7 +2,7 @@
 A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!)
 
 <h1>Description</h1>
-This application is a fun and cute way to store you burger quest! Add burgers to a list you would like to devour, then check then off with a simple click! I hope they were as delicious as you imagined.
+This application is a fun and cute way to store you burger quest! Add burgers to a list you would like to devour, then check them off with a simple click! I hope they were as delicious as you imagined.
 
 <h1>Instructions</h1>
 
@@ -15,3 +15,4 @@ This application is a fun and cute way to store you burger quest! Add burgers to
 <li>Update a burger as "devoured" by clicking on the Burger</li>
 </ol>
 
+Heroku app link: https://aqueous-atoll-80975.herokuapp.com/
